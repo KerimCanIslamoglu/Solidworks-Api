@@ -1,0 +1,10 @@
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\bin\Debug\SolidworksApi.exe.config
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\bin\Debug\SolidworksApi.exe
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\bin\Debug\SolidworksApi.pdb
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\obj\Debug\SolidworksApi.Form1.resources
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\obj\Debug\SolidworksApi.Properties.Resources.resources
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\obj\Debug\SolidworksApi.csproj.GenerateResource.cache
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\obj\Debug\SolidworksApi.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\obj\Debug\SolidworksApi.exe
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\obj\Debug\SolidworksApi.pdb
+C:\Users\kerim\source\repos\SolidworksApi\SolidworksApi\obj\Debug\SolidworksApi.Forms.AddParameterForm.resources
